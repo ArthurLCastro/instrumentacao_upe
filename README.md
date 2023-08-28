@@ -11,3 +11,11 @@
 
 ### **Firmware:**
 [Clique aqui](Projeto01_Termometro_Digital/firmware/firmware_termometro_digital/firmware_termometro_digital.ino) para acessar o firmware do Termômetro Digital.
+
+## Projeto 02: **Multímetro Digital**
+
+### **Hardware Proposto:**
+![](Projeto02_Multimetro_Digital/hardware/Proj2_instr.png)
+
+### **Firmware:**
+[Clique aqui](Projeto02_Multimetro_Digital/firmware/firmware_multimetro/firmware_multimetro.ino) para acessar o firmware do Multímetro Digital.
